@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+}
+
+@theme {
+  /* --color-primary: rgba(var(--primary));
+  --color-primary-strong: rgba(var(--primary-strong));
+  --color-secondary: rgba(var(--secondary));
+  --color-accent: rgba(var(--accent));
+  --color-success: rgba(var(--success));
+  --color-error: rgba(var(--error));
+  --color-info: rgba(var(--info));
+  --color-text-main: rgba(var(--text-main));
+  --color-text-primary: rgba(var(--text-primary));
+  --color-text-muted: rgba(var(--text-muted));
+  --color-background: rgba(var(--background)); */
+
+  --color-light-green: var(--light-green);
+  --color-normal-green: var(--normal-green);
+  --color-dark-green: var(--dark-green);
+  --color-main-text: var(--main-text);
+  --color-normal-text: var(--normal-text);
+  --color-unselected-text: var(--unselected-text);
+  --color-button-dark-green: var(--button-dark-green);
+  --color-button-hover-green: var(--button-hover-green);
+  --color-white: var(--white);
+  --color-grey: var(--grey);
+  --color-dark-grey: var(--dark-grey);
+  --color-brown: var(--brown);
+
+  --color-user-main-red: var(--user-main-red);
+  --color-user-heading-text: var(--user-heading-text);
+  --color-user-subheading-text: var(--user-subheading-text);
+}
+
+:root {
+  /* --primary: #1e90ff; */
+  /* --primary: 30, 144, 255, 1; */
+  /* --primar-strong: #0781fa; */
+  /* --primary-strong: 7, 129, 250, 1; */
+  /* --secondary: 244, 246, 248, 1; */
+  /* --accent: #17a2b8; */
+  /* --accent: 23, 162, 184, 1; */
+  /* --success: #28a745; */
+  /* --success: 40, 167, 69, 1; */
+  /* --warning: #ffc107;   */
+  /* --warning: 255, 193, 7, 1; */
+  /* --error: #dc3545; */
+  /* --error: 220, 53, 69, 1; */
+  /* --info: #5bc0de; */
+  /* --info: 91, 192, 222, 1; */
+  /* --text-main: #fffff; */
+  /* --text-main: 255, 255, 255, 1; */
+  /* --text-primary: #212529; */
+  /* --text-primary: 33, 37, 41, 1; */
+  /* --text-muted: #6c757d; */
+  /* --text-muted: 108, 117, 125, 1; */
+  /* --background: #ffffff; */
+  /* --background: 255, 255, 255, 1; */
+
+  --light-green: #ddecea;
+  --normal-green: #3e6768;
+  --dark-green: #12464a;
+  --main-text: #1b332e;
+  --normal-text: #525352;
+  --unselected-text: #a3a09e;
+  --button-dark-green: #1f3a37;
+  --button-hover-green: #3e6768;
+  --white: #fefeff;
+  --grey: #f9fafe;
+  --dark-grey: #f1f4f8;
+  --brown: #f4f1ed;
+
+  --user-main-red: #d62524;
+  --user-heading-text: #fefeff;
+  --user-subheading-text: #ffcacb;
+}
+
+/* .dark { */
+/* --primary: #4db5ff; */
+/* --primary: 77, 181, 255, 1;
+  --secondary: #1e1e2f;
+  --accent: #00c2cb;
+  --success: #3ddc84;
+  --warning: #f9a825;
+  --error: #ff6b6b;
+  --info: #64b5f6;
+  --text-primary: #eaeaea;
+  --text-muted: #9ca3af;
+  --background: #121212;
+} */

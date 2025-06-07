@@ -1,0 +1,13 @@
+1. crate api endpoints which will basically tell about the ambulances in your area.
+2. Whenever there is a request for a ambulance, a message will be sent to the driver and the hospital regarding patient, and location
+3. Try to create a real time endpoint with the two locations (one of patient and other of ambulance) using web sockets.
+
+the application will sort accordingly and send the messages to the first candidate, a message will be sent to the hospital which will confirm it. After confirmation hospital will talk to the driver
+this whole process will be visible to the user in the form of a loading message 
+searching ambulances -> sending message to hospital -> waiting for confirmation -> ambulance is on its way with a expected time of.
+
+Create a landing page for the website, which will have showcase basic feature of the application.
+
+Application will have two parts, one customer facing (patient) which will just have a button to call ambulance. Basically a form about them.
+
+One part will be managed and seen by the hospital which will see the requests and assign ambulances accordingly, this can be automated also.

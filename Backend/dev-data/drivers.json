@@ -1,0 +1,122 @@
+[
+  {
+    "name": "John Carter",
+    "carNumber": "NYC-1123",
+    "phoneNumber": "1112223333",
+    "hospital": "6824536c0cfeca1f3d8d8522",
+    "location": {
+      "type": "Point",
+      "coordinates": [-73.935242, 40.73061],
+      "address": "201 East St, New York, NY"
+    },
+    "available": true
+  },
+  {
+    "name": "Alice Monroe",
+    "carNumber": "LA-9988",
+    "phoneNumber": "2223334444",
+    "hospital": "6824536c0cfeca1f3d8d8522",
+    "location": {
+      "type": "Point",
+      "coordinates": [-118.243683, 34.052235],
+      "address": "52 Pacific Ave, Los Angeles, CA"
+    },
+    "available": false
+  },
+  {
+    "name": "Michael Reed",
+    "carNumber": "CHI-6722",
+    "phoneNumber": "3334445555",
+    "hospital": "6824536c0cfeca1f3d8d8524",
+    "location": {
+      "type": "Point",
+      "coordinates": [-87.629799, 41.878113],
+      "address": "880 Lakeside Dr, Chicago, IL"
+    },
+    "available": true
+  },
+  {
+    "name": "Nina Patel",
+    "carNumber": "SF-3412",
+    "phoneNumber": "4445556666",
+    "hospital": "6824536c0cfeca1f3d8d8524",
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.419418, 37.774929],
+      "address": "77 Bay St, San Francisco, CA"
+    },
+    "available": true
+  },
+  {
+    "name": "Carlos Diaz",
+    "carNumber": "CLT-4510",
+    "phoneNumber": "5556667777",
+    "hospital": "6824536c0cfeca1f3d8d8523",
+    "location": {
+      "type": "Point",
+      "coordinates": [-80.843124, 35.227085],
+      "address": "303 Queen Rd, Charlotte, NC"
+    },
+    "available": true
+  },
+  {
+    "name": "Priya Sharma",
+    "carNumber": "HOU-2121",
+    "phoneNumber": "6667778889",
+    "hospital": "6824536c0cfeca1f3d8d8523",
+    "location": {
+      "type": "Point",
+      "coordinates": [-95.369804, 29.760427],
+      "address": "421 Maple St, Houston, TX"
+    },
+    "available": false
+  },
+  {
+    "name": "Derek Lin",
+    "carNumber": "PHX-8787",
+    "phoneNumber": "7778889990",
+    "hospital": "6824536c0cfeca1f3d8d8523",
+    "location": {
+      "type": "Point",
+      "coordinates": [-112.074036, 33.448376],
+      "address": "89 Cactus Way, Phoenix, AZ"
+    },
+    "available": true
+  },
+  {
+    "name": "Sophia Lee",
+    "carNumber": "LA-5566",
+    "phoneNumber": "8889990001",
+    "hospital": "6824536c0cfeca1f3d8d8527",
+    "location": {
+      "type": "Point",
+      "coordinates": [-118.243683, 34.052235],
+      "address": "62 Ocean Blvd, Los Angeles, CA"
+    },
+    "available": true
+  },
+  {
+    "name": "Jamal Brown",
+    "carNumber": "NYC-4422",
+    "phoneNumber": "9990001112",
+    "hospital": "6824536c0cfeca1f3d8d8527",
+    "location": {
+      "type": "Point",
+      "coordinates": [-73.935242, 40.73061],
+      "address": "95 Lexington Ave, New York, NY"
+    },
+    "available": true
+  },
+  {
+    "name": "Emily Zhang",
+    "carNumber": "CHI-3030",
+    "phoneNumber": "0001112223",
+    "hospital": "6824536c0cfeca1f3d8d8527",
+    "location": {
+      "type": "Point",
+      "coordinates": [-87.629799, 41.878113],
+      "address": "540 Monroe St, Chicago, IL"
+    },
+    "available": true
+  }
+]

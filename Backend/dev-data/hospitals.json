@@ -1,0 +1,100 @@
+[
+  {
+    "_id": {
+      "$oid": "67f3cf812b3e6eb63cea8182"
+    },
+    "name": "Green Valley Medical Center",
+    "phoneNumber": "1234567890",
+    "drivers": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [-73.935242, 40.73061],
+      "address": "123 Main St, New York, NY"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67f3cf812b3e6eb63cea8183"
+    },
+    "name": "Sunrise General Hospital",
+    "phoneNumber": "9876543210",
+    "drivers": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [-118.243683, 34.052235],
+      "address": "456 Sunset Blvd, Los Angeles, CA"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67f3cf812b3e6eb63cea8185"
+    },
+    "name": "Lakeside Health & Wellness",
+    "phoneNumber": "4449876543",
+    "drivers": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [-87.629799, 41.878113],
+      "address": "321 Lake St, Chicago, IL"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67f3cf812b3e6eb63cea8186"
+    },
+    "name": "Hillcrest Emergency Center",
+    "phoneNumber": "2223334444",
+    "drivers": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.419418, 37.774929],
+      "address": "101 Hilltop Ave, San Francisco, CA"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67f3cf812b3e6eb63cea8187"
+    },
+    "name": "Cedarwood Health Center",
+    "phoneNumber": "6667778888",
+    "drivers": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [-95.369804, 29.760427],
+      "address": "1201 Cedar Dr, Houston, TX"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67f3cf812b3e6eb63cea8188"
+    },
+    "name": "Riverbend Regional Hospital",
+    "phoneNumber": "3338889999",
+    "drivers": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [-112.074036, 33.448376],
+      "address": "88 River Rd, Phoenix, AZ"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67f3cf812b3e6eb63cea8184"
+    },
+    "name": "Blue Ridge Community Hospital",
+    "phoneNumber": "5551234567",
+    "drivers": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [-80.843124, 35.227085],
+      "address": "789 Ridge Rd, Charlotte, NC"
+    },
+    "__v": 0
+  }
+]
