@@ -1,4 +1,4 @@
-import OverviewActivityCards from "./OverviewActivityCards";
+import OverviewActivityCard from "./OverviewActivityCard";
 
 function OverviewActivity() {
   return (
@@ -13,19 +13,19 @@ function OverviewActivity() {
       </div>
 
       <div>
-        <OverviewActivityCards
+        <OverviewActivityCard
           text="AMB-001 dispatched to emergency at Main St"
           time="2 min ago"
           priority="high"
         />
 
-        <OverviewActivityCards
+        <OverviewActivityCard
           text="AMB-003 completed transport to General Hospital"
           time="5 min ago"
           priority="low"
         />
 
-        <OverviewActivityCards
+        <OverviewActivityCard
           text="New emergency request from Downtown area"
           time="7 min ago"
           priority="medium"

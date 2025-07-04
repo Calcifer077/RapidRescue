@@ -12,7 +12,7 @@ const textColorMap = {
   low: "text-black",
 };
 
-function OverviewActivityCards({ text, time, priority }) {
+function OverviewActivityCard({ text, time, priority }) {
   return (
     <div className="grid grid-cols-[auto_1fr_auto] items-center gap-2 mb-2">
       <div>
@@ -31,4 +31,4 @@ function OverviewActivityCards({ text, time, priority }) {
   );
 }
 
-export default OverviewActivityCards;
+export default OverviewActivityCard;

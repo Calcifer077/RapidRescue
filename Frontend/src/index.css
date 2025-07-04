@@ -34,10 +34,45 @@
   --color-grey: var(--grey);
   --color-dark-grey: var(--dark-grey);
   --color-brown: var(--brown);
+  --color-yellow: var(--yellow);
+  --color-orange: var(--orange);
+  --color-orange-hover: var(--orange-hover);
+  --color-green: var(--green);
+  --color-green-hover: var(--green-hover);
+  --color-offline-grey: var(--offline-grey);
+  --color-offline-grey-hover: var(--offline-grey-hover);
 
   --color-user-main-red: var(--user-main-red);
   --color-user-heading-text: var(--user-heading-text);
   --color-user-subheading-text: var(--user-subheading-text);
+
+  --color-success-or-green: var(--success-or-green);
+  --color-success-or-green-hover: var(--success-or-green-hover);
+
+  --color-condition-critical-bg: var(--condition-critical-bg);
+  --color-condition-critical: var(--condition-critical);
+
+  --color-condition-high-bg: var(--condition-high-bg);
+  --color-condition-high: var(--container-high);
+
+  --color-condition-medium-bg: var(--condition-medium-bg);
+  --color-condition-medium: var(--condition-medium);
+
+  --color-condition-low-bg: var(--condition-low-bg);
+  --color-condition-low: var(--condition-low);
+
+  --color-status-responding-bg: var(--status-responding-bg);
+  --color-status-responding: var(--status-responding);
+
+  --color-status-available-bg: var(--status-available-bg);
+  --color-status-available: var(--status-available);
+
+  --color-status-transporting-bg: var(--status-transporting-bg);
+  --color-status-transporting: var(--status-transporting);
+
+  --color-status-offline-bg: var(--status-offline-bg);
+  --color-status-offline: var(--status-offline);
+  --color-status-maintanence: var(--status-offline);
 }
 
 :root {
@@ -77,10 +112,44 @@
   --grey: #f9fafe;
   --dark-grey: #f1f4f8;
   --brown: #f4f1ed;
+  --yellow: #fab005;
+  --orange: #ea580c;
+  --orange-hover: #c3400c;
+  --green: #16a24b;
+  --green-hover: #15813c;
+  --offline-grey: #4b5563;
+  --offline-grey-hover: #374050;
 
   --user-main-red: #d62524;
   --user-heading-text: #fefeff;
   --user-subheading-text: #ffcacb;
+
+  --success-or-green: #40c057;
+  --success-or-green-hover: #37b24d;
+
+  --condition-critical-bg: #ffa8a8;
+  --condition-critical: #e03131;
+
+  --condition-high-bg: #ffc078;
+  --container-high: #e8590c;
+
+  --condition-medium-bg: #ffec99;
+  --condition-medium: #f59f00;
+
+  --condition-low-bg: #b2f2bb;
+  --condition-low: #37b24d;
+
+  --status-responding-bg: #ffc9c9;
+  --status-responding: #f03e3e;
+
+  --status-available-bg: #d3f9d8;
+  --status-available: #37b24d;
+
+  --status-transporting-bg: #bac8ff;
+  --status-transporting: #4263eb;
+
+  --status-offline-bg: #e9ecef;
+  --status-offline: #868e96;
 }
 
 /* .dark { */
